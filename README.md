@@ -14,6 +14,8 @@ newrelic link...
 
 aws link...
 
+Google Docs [spreadsheet](https://docs.google.com/spreadsheets/d/1_q5n-bLF3mvblOZHBQlbtrapZhnfkAgmJRnPzxtQvZc/edit#gid=0)
+
 
 
 
